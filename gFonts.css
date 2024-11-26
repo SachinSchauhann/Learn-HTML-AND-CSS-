@@ -1,0 +1,35 @@
+.head1{
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+
+.head2{
+
+    font-family: "Bokor", system-ui;
+}
+
+.head3{
+
+
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+    color: red;
+    background-color: black;
+    
+}
+.box{
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+
+.Padd{
+
+    background-color: aqua;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.Padd button{
+
+    padding: 8px 5px;
+    color:red;
+    background-color: navy;
+}

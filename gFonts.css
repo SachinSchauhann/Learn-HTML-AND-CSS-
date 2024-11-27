@@ -12,8 +12,9 @@
 
 
     font-family: "Edu AU VIC WA NT Arrows", cursive;
-    color: red;
-    background-color: black;
+    color: rgb(252, 252, 252);
+    background-color: rgb(20, 1, 1);
+    
     
 }
 .box{
@@ -26,6 +27,13 @@
     background-color: aqua;
     padding-left: 20px;
     padding-top: 20px;
+    margin: 50px;
+    /* border: 13px double rgb(228, 7, 18);   */
+     /* border-radius: 50px;  */
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    box-shadow: 5px 3px 3px 5px red;
+    
 }
 .Padd button{
 

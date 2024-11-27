@@ -1,0 +1,5 @@
+.main_container{
+    background-color: rgb(224, 188, 133);
+    display: flex;
+    justify-content: space-around;
+}

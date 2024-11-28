@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    color: aqua;
+   background-color: rgb(2, 44, 32); 
+   display: flex;
+   justify-content: space-between;
+   padding: 30px;
+   align-items: center;
+   
+   box-shadow: 1px 4px rgb(97, 217, 247);
+
+}
+.navbar ul{
+display: flex;
+list-style: none;
+gap: 40px;
+
+}

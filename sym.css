@@ -1,0 +1,27 @@
+header{
+    background-image: url(pexels-david-besh-884788.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: ;
+}
+/* .navbar ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} */
+
+.hero{
+    align-items: center;
+}
+.ic-home{
+    color: aqua;
+    font-size: 20px;
+    background-color: blueviolet;
+    
+}

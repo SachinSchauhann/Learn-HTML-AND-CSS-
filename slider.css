@@ -1,0 +1,26 @@
+.slider{
+    height: 800px;
+    background-image: url(pexels-david-besh-884788.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-repeat: initial;
+    animation-name: slider;
+    animation-duration: 3s;
+    animation-direction: alternate-reverse;
+    animation-iteration-count: infinite;
+    
+
+}
+
+@keyframes slider {
+    0%{
+       background-image: url(Screenshot\ 2024-11-27\ 185301.png);
+    }
+    50%{
+background-image: url(car.jpg);
+    }
+    100%{
+background-image: url(pexels-david-besh-884788.jpg);
+    }
+
+}
